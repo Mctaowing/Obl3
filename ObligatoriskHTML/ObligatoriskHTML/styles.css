@@ -1,0 +1,17 @@
+body{
+    background-color: #fff484 ;
+    position: relative;
+    margin-bottom: 200px;
+}
+footer{
+    padding: 1em;
+    color: white;
+    background-color: black;
+    font-size: 15px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+nav{
+    background-color: #fff484;
+}
